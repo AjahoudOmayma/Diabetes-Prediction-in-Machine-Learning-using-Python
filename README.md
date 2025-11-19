@@ -10,6 +10,8 @@ The model used in this analysis is the k-Nearest Neighbors (KNN) Classifier.
 Prerequisites
 
 To run this notebook and reproduce the results, you need a Python environment with the following libraries installed:
+
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
