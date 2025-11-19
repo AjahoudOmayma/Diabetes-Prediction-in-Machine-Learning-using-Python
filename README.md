@@ -17,8 +17,11 @@ Project Structure
 The repository structure should look like this:
 
 Diabetes-Prediction/
+
 ├── diabetes_prediction.ipynb    # Main analysis and modeling notebook
+|
 ├── diabetes.csv                 # Dataset file
+|
 └── README.md                    # Project description (this file)
 
 📊 Data Overview
