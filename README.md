@@ -15,6 +15,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Project Structure
 
 The repository structure should look like this:
+
 Diabetes-Prediction/
 ├── diabetes_prediction.ipynb    # Main analysis and modeling notebook
 ├── diabetes.csv                 # Dataset file
